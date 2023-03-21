@@ -1,0 +1,29 @@
+Altium Designer Pick and Place Locations
+C:\Users\Electro BoY\Desktop\all projects\drone remote\Drone Remote\Project Outputs for Drone Remote\Pick Place for receiver.txt
+
+========================================================================================================================
+File Design Information:
+
+Date:       21/03/23
+Time:       14:50
+Revision:   Not in VersionControl
+Variant:    No variations
+Units used: mil
+
+Designator      Comment         Layer    Footprint                        Center-X(mil) Center-Y(mil) Rotation Description          
+NRF             "antena conn"   TopLayer HDRV10W87P254_2X5_1270X508X864P  4310.000      4410.000      0        Connector            
+C2              K152K15X7RF53L2 TopLayer K152K15X7RF53L2                  4065.000      3204.213      90       Capacitor            
+LED2            LTL2V3EV3JSR    TopLayer LTL2V3EV3JSR                     4400.000      3200.000      180      LED                  
+LED1            LTL2V3EV3JSR    TopLayer LTL2V3EV3JSR                     4750.000      3200.000      180      LED                  
+"ch 1"          "signal "       TopLayer HDRV4W87P0X254_1X4_991X236X1155P 4785.000      4510.000      90       Connector            
+"ch 2"          "signal "       TopLayer HDRV4W87P0X254_1X4_991X236X1155P 4890.000      4510.000      90       Connector            
+"ch 3"          "signal "       TopLayer HDRV4W87P0X254_1X4_991X236X1155P 4995.000      4510.000      90       Connector            
+"ch 4"          "signal "       TopLayer HDRV4W87P0X254_1X4_991X236X1155P 5100.000      4510.000      90       Connector            
+"ch 5"          "signal "       TopLayer HDRV4W87P0X254_1X4_991X236X1155P 5205.000      4510.000      90       Connector            
+"ch 6"          "signal "       TopLayer HDRV4W87P0X254_1X4_991X236X1155P 5310.000      4510.000      90       Connector            
+"ch 7"          "signal "       TopLayer HDRV4W87P0X254_1X4_991X236X1155P 5415.000      4510.000      90       Connector            
+"ch 8"          "signal "       TopLayer HDRV4W87P0X254_1X4_991X236X1155P 5520.000      4510.000      90       Connector            
+3.3V            7803            TopLayer TO254P470X1000X1610-3P           3810.000      3425.000      90       "Integrated Circuit" 
+"Arduino Nano " ABX00028        TopLayer ABX00028                         4855.000      3760.000      0        "Integrated Circuit" 
+"5V "           7805            TopLayer TO254P470X1000X1610-3P           5265.000      3225.000      180      "Integrated Circuit" 
+C1              K152K15X7RF53L2 TopLayer K152K15X7RF53L2                  5585.000      3201.379      90       Capacitor            

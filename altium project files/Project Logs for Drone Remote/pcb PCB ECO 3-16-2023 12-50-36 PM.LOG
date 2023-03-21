@@ -1,0 +1,12 @@
+Added Component: Designator=J1(1717020)
+Add component (AddParameter): Name = "Arrow Part Number"; Value = "1717020"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Arrow Price/Stock"; Value = "https://www.arrow.com/en/products/1717020/phoenix-contact"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Datasheet Link"; Value = "https://www.phoenixcontact.com/en-us/products/printed-circuit-board-terminal-gmkds-15-2-1717020"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Manufacturer_Name"; Value = "Phoenix Contact"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Manufacturer_Part_Number"; Value = "1717020"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Mouser Part Number"; Value = "651-1717020"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Mouser Price/Stock"; Value = "https://www.mouser.co.uk/ProductDetail/Phoenix-Contact/1717020?qs=aYsvlkyO7qPz8sNM1KmjVQ%3D%3D"; VariantName = "[No Variations]"
+Added Pin To Net: NetName=GND Pin=J1-1
+Added Pin To Net: NetName=NetIC1_1 Pin=J1-2
+Added Member To Class: ClassName=drone remote Member=Component J1 1717020
+Added Room: Name=drone remote
